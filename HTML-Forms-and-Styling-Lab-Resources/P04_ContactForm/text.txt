@@ -12,6 +12,7 @@ Message :
 
 Subject :
 
-Job Inquiry
-
-General Question
+<select id="subject">
+  <option>Job Inquiry</option>
+  <option>General Question</option>
+</select>
